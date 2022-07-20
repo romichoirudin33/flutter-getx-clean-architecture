@@ -117,9 +117,9 @@
     },
     {
       "name": "get",
-      "rootUri": "file:///C:/Users/romic/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/get-4.1.4",
+      "rootUri": "file:///C:/Users/romic/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/get-4.6.5",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.15"
     },
     {
       "name": "http",
@@ -389,10 +389,10 @@
       "name": "getx_clean_architecture",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     }
   ],
-  "generated": "2022-07-19T07:14:19.181301Z",
+  "generated": "2022-07-20T00:46:41.952939Z",
   "generator": "pub",
   "generatorVersion": "2.15.1"
 }
